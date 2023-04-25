@@ -9,3 +9,5 @@ Untuk mengatur skor di tugas ini saya menggunakan variabel integer sebagai penan
 Kode Program
 ![kode](/Screenshot/kode.png)
 Video Program
+
+![program](/Screenshot/program.gif)
